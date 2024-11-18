@@ -9,4 +9,4 @@ Dentro desse aprendizado veio também a navegação dentro do menun principal do
 
 Com esse conhecimento tenho como pretenção continuar o corso e realizar as instruções passadas.
 
-Para que possa chegar no exame de certificação da AZ900 agora no mês de Dezempo
+Para que possa chegar no exame de certificação da AZ900 agora no mês de Dezembro
